@@ -1,4 +1,5 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Ygor! 
+</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -15,10 +16,6 @@
 - <b>TryHackMe</b>
   - SOC Level 1 Learning Path [Profile](https://tryhackme.com/p/Honygu)
 
-<h2>📺 YouTube Videos</h2>  
-
-- [Active Directory Home Lab]
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -29,6 +26,12 @@
 
 <!--
 **honestoygor/honestoygor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a>
+
+<h2>📺 YouTube Videos</h2>  
+
+- [Active Directory Home Lab]
 
 Here are some ideas to get you started:
 

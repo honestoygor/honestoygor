@@ -3,26 +3,22 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Python Exploits](https://github.com/honestoygor/pythonexploits)
+- [Python Exploits](https://github.com/honestoygor/pythonexploits): python programs and scripts to support durring a penetration testing process.
+- [EasyEnum](https://github.com/honestoygor/EasyEnum): bash script to support and accelerate the enumeration process in the reconnaissance process.
 
 <h2>🔭 I’m currently Working on</h2>
 
 - <b>Certifications</b>
-  - Practical Junior Penetration Tester Certification [TCM Security](https://certifications.tcm-sec.com/pjpt/)
+  - Practical Junior Penetration Tester Certification [TCM Security](https://certifications.tcm-sec.com/pjpt/): expected in November 2023.
 - <b>TryHackMe</b>
-  - SOC Level 1 Learning Path [Profile](https://tryhackme.com/p/Honygu)
+  - TryHackMe [Profile](https://tryhackme.com/p/Honygu)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/ygorhonesto/
-[linkedin]: https://www.linkedin.com/in/ygorhonesto
+- [LinkedIn](https://www.linkedin.com/in/ygorhonesto)
+- [Instagram](https://www.instagram.com/ygorhonesto/)
 
 <!--
-
-<br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a>
 
 <h2>📺 YouTube Videos</h2>  
 

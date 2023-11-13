@@ -4,7 +4,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Python Exploits](https://github.com/honestoygor/pythonexploits): python programs and scripts to support durring a penetration testing process.
-- [EasyEnum](https://github.com/honestoygor/EasyEnum): bash script to support and accelerate the enumeration process in the reconnaissance process.
+- [EasyEnum](https://github.com/honestoygor/EasyEnum): bash script to support and accelerate the enumeration in the reconnaissance process.
 
 <h2>🔭 I’m currently Working on</h2>
 

@@ -9,6 +9,8 @@
 
 - <b>Certifications</b>
   - CompTIA Security +: expected in Fall 2024.
+- <b>Home Network & Server</b>
+  - I've created a personal network and I'm using one of the VLANs created to do a Proxmox Server were I will be appling a range of services for the development of future projects. The project documention is still in progression, but there is a diagram of the project below.
 - <b>TryHackMe</b>
   - TryHackMe [Profile](https://tryhackme.com/p/Honygu)
 

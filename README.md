@@ -8,7 +8,7 @@
 <h2>🔭 Current Projects </h2>
 
 - <b>Certifications</b>
-  - Practical Junior Penetration Tester Certification [TCM Security](https://certifications.tcm-sec.com/pjpt/): expected in November 2023.
+  - CompTIA Security +: expected in Fall 2024.
 - <b>TryHackMe</b>
   - TryHackMe [Profile](https://tryhackme.com/p/Honygu)
 

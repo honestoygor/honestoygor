@@ -20,6 +20,8 @@
 <h2>Certifications</h2>
 <a href="https://certification.testout.com/verifycert/6-2C6-VERWN9" target="_blank"><img src="https://img.shields.io/badge/-Testout%20PC%20Pro-0000FF?style=for-the-badge&logo=Testout&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/0fed9350-f7ec-4dd1-b433-79b62a3c8ea7/linked_in?t=setevi" target="_blank"><img src="https://img.shields.io/badge/-CompTIA%20A+-0096D6?style=for-the-badge&logo=Comptia&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/d083821d-b3e7-4f84-82f4-b5f144c34218/linked_in_profile" target="_blank"><img src="https://img.shields.io/badge/-CompTIA%20Security+-0096D6?style=for-the-badge&logo=Comptia&logoColor=white" alt="CompTIA Security+ Certification Badge" /></a>
+
 
 <!--
 

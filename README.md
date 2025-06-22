@@ -10,12 +10,13 @@
 <h2>🔭 Current Projects </h2>
 
 - <b>Certifications</b>
-  - CompTIA Security +: expected in Fall 2024.
+  - GIAC Certified Indicent Handler(GCIH): currently working towards this certification.
 - <b>Home Network & Server</b>
-  - I've created a personal network and I'm using one of the VLANs created to do a Proxmox Server were I will be appling a range of services for the development of future projects. The project documention is still in progression, but there is a diagram of the project below.
-![network_project_diagram](https://github.com/honestoygor/diagrams/blob/main/network_project_diagram.svg)
-- <b>TryHackMe</b>
-  - TryHackMe [Profile](https://tryhackme.com/p/Honygu)
+  - Builded a two-machine SOC lab using Linux, configuring Wazuh with Elastic Stack for log collection and analysis.
+  - Deployed TheHive, Cortex, Suricata, and ClamAV for threat detection and case management.
+  - Integrated VirusTotal and automated alert workflows to simulate real-world SOC operations.
+  - `The project documention is still in progression to be upload at GitHub.`
+
  
 <h2>Certifications</h2>
 <a href="https://www.credly.com/badges/0fed9350-f7ec-4dd1-b433-79b62a3c8ea7/linked_in?t=setevi" target="_blank"><img src="https://img.shields.io/badge/-CompTIA%20A+-0096D6?style=for-the-badge&logo=Comptia&logoColor=white" /></a>

@@ -11,11 +11,11 @@
 
 - <b>Certifications</b>
   - GIAC Certified Indicent Handler(GCIH): currently working towards this certification.
-- <b>Home Network & Server</b>
+- <b>[SOC Lab](https://github.com/honestoygor/cyberdocs/blob/main/soc/soc_lab.md)</b>
   - Builded a two-machine SOC lab using Linux, configuring Wazuh with Elastic Stack for log collection and analysis.
   - Deployed TheHive, Cortex, Suricata, and ClamAV for threat detection and case management.
   - Integrated VirusTotal and automated alert workflows to simulate real-world SOC operations.
-  - `The project documention is still in progression to be upload at GitHub.`
+  - `The documentation is still underconstruction, as I keep  interating in the project, adding more features which I latter add into the .md file`
 
  
 <h2>Certifications</h2>
@@ -38,6 +38,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
